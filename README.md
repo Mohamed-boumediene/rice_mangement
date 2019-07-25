@@ -1,2 +1,2 @@
 # rice_mangement
-This repo aims to help inma company to mange their rice production
+This repo aims to help inma company to manage their rice production
